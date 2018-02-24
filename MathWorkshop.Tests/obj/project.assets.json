@@ -5793,11 +5793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\piatk\\szkolenie\\MathWorkshop.Tests\\MathWorkshop.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\piatk\\szkolenie\\MathWorkshop.Tests\\MathWorkshop.Tests.csproj",
       "projectName": "MathWorkshop.Tests",
-      "projectPath": "c:\\Users\\piatk\\szkolenie\\MathWorkshop.Tests\\MathWorkshop.Tests.csproj",
+      "projectPath": "C:\\Users\\piatk\\szkolenie\\MathWorkshop.Tests\\MathWorkshop.Tests.csproj",
       "packagesPath": "C:\\Users\\piatk\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\piatk\\szkolenie\\MathWorkshop.Tests\\obj\\",
+      "outputPath": "C:\\Users\\piatk\\szkolenie\\MathWorkshop.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5814,8 +5814,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj": {
-              "projectPath": "c:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj"
+            "C:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj": {
+              "projectPath": "C:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj"
             }
           }
         }
