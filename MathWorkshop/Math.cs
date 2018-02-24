@@ -1,17 +1,18 @@
 using System;
 
-namespace MathWorkshop
-{
-    public class Math
-    {
+namespace MathWorkshop {
+    public class Math {
         public int Value { get; set; }
-        public Math(int value)
-        {
+        public Math (int value) {
             Value = value;
         }
-
-        public Math()
+        public Math Add (int ValueToAdd) 
         {
+            Value += ValueToAdd;
+            return this;
+        }
+
+        public Math () {
 
         }
     }
