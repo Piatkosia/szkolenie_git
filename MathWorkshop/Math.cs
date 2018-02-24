@@ -8,8 +8,9 @@ namespace MathWorkshop {
         }
         public Math Add (int ValueToAdd) 
         {
+        checked{
             Value += ValueToAdd;
-            return this;
+            return this;}
         }
 
         public Math () {

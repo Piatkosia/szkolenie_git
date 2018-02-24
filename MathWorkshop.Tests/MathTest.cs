@@ -13,6 +13,7 @@ namespace MathWorkshop.Tests
         int initValue = 7;
         int valueToAdd = 1;
         int valueAfterAdding = 8;
+        Action testAction;
         [Fact]
         public void Math_Value_WhenTestValueIsSet_TestValue()
         {
@@ -26,6 +27,25 @@ namespace MathWorkshop.Tests
             Arrange();
             Act_Math_AddValue_WhenOneIsAdd_ReturnsTestValue_PlusOne();
             Assert_Math_AddValue_WhenOneIsAdd_ReturnsTestValue_PlusOne();
+        }
+
+        [Fact]
+        public void Math_AddValue_WhenOneIsAdd_AndInitialIsMax_ThrowsException()
+        {
+            Arrange();
+            Act_Math_AddValue_WhenOneIsAdd_AndInitialIsMax_ThrowsException();
+            Assert_Math_AddValue_WhenOneIsAdd_AndInitialIsMax_ThrowsException();
+        }
+
+        private void Assert_Math_AddValue_WhenOneIsAdd_AndInitialIsMax_ThrowsException()
+        {
+           testAction.ShouldThrow<Exception>();
+        }
+
+        private void Act_Math_AddValue_WhenOneIsAdd_AndInitialIsMax_ThrowsException()
+        {
+            testobject.Value = Int32.MaxValue;
+            testAction = () => testobject.Add(valueToAdd);
         }
 
         private void Assert_Math_AddValue_WhenOneIsAdd_ReturnsTestValue_PlusOne()
