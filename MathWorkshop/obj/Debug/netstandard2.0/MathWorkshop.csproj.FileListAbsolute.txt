@@ -1,0 +1,8 @@
+C:\Users\piatk\szkolenie\MathWorkshop\bin\Debug\netstandard2.0\MathWorkshop.deps.json
+C:\Users\piatk\szkolenie\MathWorkshop\bin\Debug\netstandard2.0\MathWorkshop.dll
+C:\Users\piatk\szkolenie\MathWorkshop\bin\Debug\netstandard2.0\MathWorkshop.pdb
+C:\Users\piatk\szkolenie\MathWorkshop\obj\Debug\netstandard2.0\MathWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\piatk\szkolenie\MathWorkshop\obj\Debug\netstandard2.0\MathWorkshop.AssemblyInfoInputs.cache
+C:\Users\piatk\szkolenie\MathWorkshop\obj\Debug\netstandard2.0\MathWorkshop.AssemblyInfo.cs
+C:\Users\piatk\szkolenie\MathWorkshop\obj\Debug\netstandard2.0\MathWorkshop.dll
+C:\Users\piatk\szkolenie\MathWorkshop\obj\Debug\netstandard2.0\MathWorkshop.pdb
