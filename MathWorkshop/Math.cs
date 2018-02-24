@@ -1,5 +1,5 @@
 using System;
-
+using MSMath = System.Math; 
 namespace MathWorkshop {
     public class Math {
         public int Value { get; set; }
@@ -10,7 +10,16 @@ namespace MathWorkshop {
         {
         checked{
             Value += ValueToAdd;
-            return this;}
+            return this;
+            }
+        }
+
+  public Math Sub (int ValueToSubstract) 
+        {
+        checked{
+            Value -= ValueToSubstract;
+            return this;
+            }
         }
 
         public Math () {
