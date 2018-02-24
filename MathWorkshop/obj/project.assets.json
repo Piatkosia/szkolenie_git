@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj",
+      "projectUniqueName": "c:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj",
       "projectName": "MathWorkshop",
-      "projectPath": "C:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj",
+      "projectPath": "c:\\Users\\piatk\\szkolenie\\MathWorkshop\\MathWorkshop.csproj",
       "packagesPath": "C:\\Users\\piatk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\piatk\\szkolenie\\MathWorkshop\\obj\\",
+      "outputPath": "c:\\Users\\piatk\\szkolenie\\MathWorkshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
